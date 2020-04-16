@@ -1,4 +1,4 @@
-# flashchat
+# Flash Chat on Dart and Firebase
 
 A new Flutter application with Firebase.
 
